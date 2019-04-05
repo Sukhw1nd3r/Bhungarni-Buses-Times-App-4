@@ -1,0 +1,50 @@
+
+body{
+	    background-image: url('../backauto.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.content-wrapper{
+    
+ display: block;
+    margin:  auto;
+}
+
+.content-wrapper img{
+     width: 300px;
+   display: block;
+    margin:  auto;
+	 height:180px;
+}     
+
+.text-wrapper{
+   
+width: 300px;
+	display: block;
+    margin:  auto;
+    position: relative;
+    margin-top: -7%;
+}
+
+.text-wrapper h1{
+	position: relative;
+	bottom:31px;
+	line-height: 50px;
+
+	background-color: black;
+	text-align: bottom;
+    color: #ffffff;
+    font-size: 6.5vw;
+    font-family: 'lobster', cursive;
+}
+
+
+
+
+
+
+
+
+
+
